@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-#resume_avatar:                  "false"
+resume_avatar:                  "false"
 resume_name:                    "Демидов Станислав"
 resume_title:                   "Java разработчик"
 
