@@ -1,0 +1,18 @@
+# Skills
+- skill: Languages
+  description: Java, SQL, Javascript(JQuery)
+
+- skill: Java Frameworks
+  description: Java (Multithreading, Time API, Streams), Spring (MVC, Security, JDBC, Data JPA, Boot), JPA (Hibernate), JUnit
+
+- skill: DB
+  description: MS SQL, PostgreSQL, MySQL, HSQLDB
+
+- skill: Технологии
+  description: Servlet, JSP/JSTL, REST, JDBC, JPA, AJAX, JMX
+
+- skill: Инструменты
+  description: Git, Maven, Docker, IntelliJ IDEA
+
+- skill: Английский
+  description: А3 &mdash; Чтение технической литературы
