@@ -10,5 +10,5 @@
 - project: Резюме
   role: Программист
   duration: 2020 &mdash; 2021
-  url: "https://github.com/St-Dem/basejava"
+  url: "https://resumeweb.herokuapp.com/resume"
   description: Стек ключевых инструментов / технологий / программных средств - Java 8(Stream, Collection, Serialization), Tomcat, JSON, XML, JDBC, JUnit, Servlet, Heroku.
