@@ -4,7 +4,7 @@
 - project: Подсчет калорий
   role: Программист
   duration: 2021
-  url: "https://github.com/St-Dem/topjava"
+  url: "http://testtopjava01.herokuapp.com/"
   description: Стек ключевых инструментов / технологий / программных средств - Java 8 (Stream, Time API), Spring (MVC, Security, Data JPA), Hibernate, Tomcat, Servlet, JSP, REST(Jackson), AJAX, JUnit 5, JavaScript, Bootstrap, jQuery + plugins, PostgreSQL, HSQLDB, IntelliJ IDEA, Maven, Git, Tomcat, Heroku.
 
 - project: Резюме
