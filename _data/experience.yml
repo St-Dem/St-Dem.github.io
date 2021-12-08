@@ -2,7 +2,7 @@
 # 
 - company: TopJava
   position: Стажировка Spring 5/JPA Enterprise
-  duration: Октябрь 2020 &mdash; настоящее время
+  duration: Октябрь 2020 &mdash; октябрь 2021
   summary: "Участие в разработке Spring/JPA Enterprise приложения
 <ul class='resume-item-list'>
 <li>реализация сохранения в базы Postgres и HSQLDB на основе Spring (JBDC, Data JPA)</li>
