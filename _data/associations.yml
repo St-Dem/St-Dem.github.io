@@ -1,7 +1,7 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: #<a href='https://javaops.ru/certificate/topjava?email=dmd.stanislav@gmail.com'>Java-разработчик корпоративных приложений</a>
+- organization: <a href='https://javaops.ru/certificate/topjava?email=dmd.stanislav@gmail.com'>Java-разработчик корпоративных приложений</a>
   role: TopJava
   year: 2021
 
